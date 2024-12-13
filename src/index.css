@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background-image: url("background-image.jpg");
+  background-image: url("./assets/background-image.jpg");
   background-repeat: repeat;
   background-size: cover;
   background-attachment: fixed;
